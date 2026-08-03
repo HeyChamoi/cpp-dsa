@@ -1,7 +1,7 @@
-# C++ DSA
+# C++ & DSA Journey
 
-Hi, I'm Ameya.
+This repository documents my journey of learning C++ and gradually progressing into Data Structures & Algorithms.
 
-This repository contains my implementations, problem solutions, and notes as I learn Data Structures & Algorithms in C++.
+It contains my notes, implementations, and solutions to practice problems from various sources as I learn.
 
-> **Note:** The solutions in this repository represent my understanding at the time they were written. As I continue learning, my approach to solving problems will naturally become more efficient.
+> **P.S.** This repository reflects my learning journey from the very beginning. As I continue learning, you'll notice the code becoming cleaner, more efficient, and better structured over time. I'll be learning from Strivers A2Z Course and therefore the questions will be a mix of Leetcode and Course question
