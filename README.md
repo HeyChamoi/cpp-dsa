@@ -1,7 +1,13 @@
 # C++ & DSA Journey
 
-This repository documents my journey of learning C++ and gradually progressing into Data Structures & Algorithms.
+This repository documents my journey of learning C++ and Data Structures & Algorithms.
 
-It contains my notes, implementations, and solutions to practice problems from various sources as I learn.
+The goal of this repository is to strengthen my problem-solving skills, build a solid understanding of DSA, and track my progress throughout the journey.
 
-> **P.S.** This repository reflects my learning journey from the very beginning. As I continue learning, you'll notice the code becoming cleaner, more efficient, and better structured over time. I'll be learning from Strivers A2Z Course and therefore the questions will be a mix of Leetcode and Course question
+## Repository Structure
+
+- **DSA Basics** – Foundation topics such as Patterns, Basic Mathematics, STL, Recursion, and Hashing.
+- **Core DSA** – Arrays, Sorting, Binary Search, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, and more.
+- **Practice Questions** – Each topic folder contains a **Questions** subfolder with solutions to problems from LeetCode and Strivers A2Z Course.
+
+> **P.S.** This repository documents my learning journey from the very beginning. As I continue learning, the code will naturally become cleaner, more efficient, and better structured over time. Most of the concepts and practice problems in this repository follow **Strivers A2Z Course**, so the solutions will be a mix of Striver's practice problems and LeetCode problems.
